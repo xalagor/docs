@@ -1,9 +1,3 @@
----
-title: Readme
-slug: readme
-type: docs
----
-
 Все крупные проекты из [GitLab][gitlab] и [GitHub][github]:
 
 - [Waiter][xalagor/waiter] — cmd-инструмент для запуска разных профилей в VSCode.

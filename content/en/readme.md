@@ -1,9 +1,3 @@
----
-title: Readme
-slug: readme
-type: docs
----
-
 All major projects from [GitLab] and [GitHub] :
 
 - [Waiter] is a cmd tool for launching different profiles in VSCode.
