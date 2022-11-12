@@ -1,5 +1,5 @@
 ---
-title: Главная
+title: Main
 slug: homepage
 type: docs
 ---
