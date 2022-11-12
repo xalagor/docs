@@ -6,6 +6,6 @@ type: docs
 
 You may need:
 
-- [Портфолио](portfolio.md) разработчика игр на Unreal Engine
-- [Readme](readme.md), которое пушится на мои профили в GitLab и GitHub
+- [Portfolio](portfolio.md) of Unreal Engine Game Developer
+- [Readme](readme.md), which is pushed to my GitLab and GitHub profiles
 - Perhaps even [translating this site](https://gitlocalize.com/repo/8169) into other languages via GitLocalize
