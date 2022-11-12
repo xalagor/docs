@@ -1,6 +1,6 @@
 baseURL = 'https://xalagor.github.io/docs/'
 languageCode = 'en-us'
-title = 'Xalagor/Docs'
+title = 'Xalagor Docs'
 theme = 'hugo-book'
 # Setup Multilingual site
 copyright = 'Everything is mine'
