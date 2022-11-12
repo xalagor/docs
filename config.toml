@@ -36,7 +36,7 @@ BookLogo = 'logo.png'
 # (Optional, default none) Set leaf bundle to render as side menu
 # When not specified file structure and weights will be used
 # Deprecated, to be removed in June 2022
-BookMenuBundle = '/menu'
+# BookMenuBundle = '/menu'
 
 # (Optional, default docs) Specify section of content to render as menu
 # You can also set value to "*" to render all sections to menu
