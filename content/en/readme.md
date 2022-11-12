@@ -10,7 +10,6 @@ You can contact via:
 - Discord: `Xalagor#8844`
 - Email: `mail@xalagor.ru`
 
-
 [GitHub]: https://github.com/xalagor
 [GitLab]: https://gitlab.com/xalagor
 [Waiter]: https://github.com/xalagor/waiter
