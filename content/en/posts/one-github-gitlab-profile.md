@@ -22,5 +22,4 @@ remote.origin.pushurl=git@gitlab.com:xalagor/xalagor.git
 remote.origin.pushurl=git@github.com:xalagor/xalagor.git
 ```
 
-
 [^1]: https://stackoverflow.com/posts/14290145
