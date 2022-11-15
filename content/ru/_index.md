@@ -15,8 +15,7 @@
 - Discord: `Xalagor#8844`
 - Email: `mail@xalagor.ru`
 
-<!-- Для верификации ссылки в профиле Mastodon нужно делать обратную ссылку с тегом rel="me" -->
-<a rel="me" href="https://mastodon.gamedev.place/@xalagor">Логи в Mastodon</a> | [RSS от блога][RSS]
+[Logs in Mastodon][Mastodon] | [RSS от блога][RSS]
 
 [GitHub]: https://github.com/xalagor
 [GitLab]: https://gitlab.com/xalagor
@@ -25,4 +24,5 @@
 [VSUET]: https://gitlab.com/education-vsuet
 [Skillbox]: https://gitlab.com/skillbox-xalagor
 [Portfolio]: https://xalagor.github.io/docs/ru/portfolio/
+[Mastodon]: https://mastodon.gamedev.place/@xalagor
 [RSS]: https://xalagor.github.io/docs/ru/index.xml
