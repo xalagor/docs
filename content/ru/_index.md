@@ -8,7 +8,7 @@
 Разные личные страницы:
 
 - [Портфолио](portfolio.md) разработчика игр на Unreal Engine
-- Возможно, даже, [перевод моего сайта](https://gitlocalize.com/repo/8169) на другие языки через GitLocalize
+- Возможно, даже, [перевод моего сайта](https://gitlocalize.com/repo/8169) на другие языки через GitLocalize [![gitlocalized](https://gitlocalize.com/repo/8169/whole_project/badge.svg)](https://gitlocalize.com/repo/8169/whole_project?utm_source=badge)
 
 Связаться можно через:
 
