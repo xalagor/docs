@@ -1,9 +1,9 @@
-All major projects from [GitLab](https://gitlab.com/xalagor) and [GitHub](https://github.com/xalagor) :
+All major projects from [GitLab] and [GitHub] :
 
-- [Waiter](https://github.com/xalagor/waiter) — cmd-инструмент для запуска разных профилей в VSCode.
-- [Fundament](https://gitlab.com/xalagor/fundament) — минимальный набор конфигов и ассетов, общих для всех персональных проектов на Unreal Engine.
-- [ВГУИТ](https://gitlab.com/education-vsuet) — проекты времён учёбы во ВГУИТ, которые могут кому-нибудь понадобиться.
-- [Skillbox](https://gitlab.com/skillbox-xalagor) — проекты времён учёбы в Skillbox, которые тоже могут кому-нибудь понадобиться.
+- [Waiter] — a cmd tool for launching different profiles in VSCode.
+- [Fundament] — a minimal set of configs and assets common to all personal projects on Unreal Engine.
+- [VSUIT] — projects from the time of study at VSUIT, which someone may need.
+- [Skillbox] — projects from the time of study at Skillbox, which may also be useful to someone.
 
 Various personal pages:
 
@@ -18,3 +18,11 @@ You can contact via:
 <!-- Для верификации ссылки в профиле Mastodon нужно делать обратную ссылку с тегом rel="me" -->
 
 <a rel="me" href="https://mastodon.gamedev.place/@xalagor">Logs in Mastodon</a> | [RSS from the blog](https://xalagor.github.io/docs/ru/index.xml)
+
+
+[GitHub]: https://github.com/xalagor
+[GitLab]: https://gitlab.com/xalagor
+[Waiter]: https://github.com/xalagor/waiter
+[Fundament]: https://gitlab.com/xalagor/fundament
+[VSUIT]: https://gitlab.com/education-vsuet
+[Skillbox]: https://gitlab.com/skillbox-xalagor
