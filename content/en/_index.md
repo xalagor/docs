@@ -15,7 +15,7 @@ You can contact via:
 - Discord: `Xalagor#8844`
 - Email: `mail@xalagor.ru`
 
-[Logs in Mastodon][Mastodon] | [RSS from the blog][RSS]
+{{< rel rel="me" href="https://mastodon.gamedev.place/@xalagor" title="Logs in Mastodon" >}} | [RSS from the blog][RSS]
 
 [GitHub]: https://github.com/xalagor
 [GitLab]: https://gitlab.com/xalagor

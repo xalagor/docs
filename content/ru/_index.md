@@ -15,7 +15,7 @@
 - Discord: `Xalagor#8844`
 - Email: `mail@xalagor.ru`
 
-[Logs in Mastodon][Mastodon] | [RSS от блога][RSS]
+{{< rel rel="me" href="https://mastodon.gamedev.place/@xalagor" title="Логи в Mastodon" >}} | [RSS от блога][RSS]
 
 [GitHub]: https://github.com/xalagor
 [GitLab]: https://gitlab.com/xalagor
@@ -24,5 +24,4 @@
 [VSUET]: https://gitlab.com/education-vsuet
 [Skillbox]: https://gitlab.com/skillbox-xalagor
 [Portfolio]: https://xalagor.github.io/docs/ru/portfolio/
-[Mastodon]: https://mastodon.gamedev.place/@xalagor
 [RSS]: https://xalagor.github.io/docs/ru/index.xml
